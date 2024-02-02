@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+.main{
+    height: 200vh;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #561C24;
+    
+}
+
+h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+h2{
+    padding-top: 20px;
+}
+
+img{
+    width: 550px;
+    height: auto;
+    padding: 20px 0;
+}
+
+p{
+    padding: 20px 0;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 10px 15px;
+    border: 3px solid;
+    background-color: #6D2932;
+}
